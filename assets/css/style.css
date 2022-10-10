@@ -1,0 +1,31 @@
+.headerimg {
+  background-size: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-image: url(https://enefti.modeltheme.com/wp-content/uploads/2022/02/Main-slider_pattern.jpg);
+}
+
+.dv {
+  width: 40% !important;
+}
+.dv h1 {
+  font-size: 7ch !important;
+}
+.dv p {
+  font-size: 2ch !important;
+  color: silver;
+}
+.dv button {
+  padding: 15px 35px;
+}
+
+.homediv {
+  width: 200px;
+  background-color: #fff;
+  height: 100px;
+  display: none;
+}
+
+.home .homediv:hover {
+  display: block;
+}/*# sourceMappingURL=style.css.map */
